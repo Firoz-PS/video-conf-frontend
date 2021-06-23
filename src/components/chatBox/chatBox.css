@@ -1,0 +1,5 @@
+.chatBox{
+    background-color: var(--BACKGROUND_COLOR4);
+    height: var(--CHATBOX_HEIGHT);
+    /* width: var(--CHATBOX_WIDTH); */
+}

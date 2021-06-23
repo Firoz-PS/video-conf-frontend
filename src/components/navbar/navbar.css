@@ -1,0 +1,4 @@
+.navbar{
+    background-color: var(--THEME_COLOR1);
+    height: var(--TOPBAR_HEIGHT);
+}

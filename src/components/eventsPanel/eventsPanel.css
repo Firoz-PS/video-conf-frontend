@@ -1,0 +1,5 @@
+.eventsPanel{
+    background-color: var(--BACKGROUND_COLOR2);
+    height: var(--EVENTSPANEL_HEIGHT);
+    /* width: var(--EVENTSPANEL_WIDTH_EXTENDED); */
+}

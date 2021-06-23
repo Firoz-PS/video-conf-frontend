@@ -1,0 +1,13 @@
+.callPanel{
+    background-color: var(--BACKGROUND_COLOR3);
+    height: var(--CALLPANEL_HEIGHT);
+}
+
+.callBox{
+    background-color: var(--BACKGROUND_COLOR4);
+}
+
+.video{
+    height: 100%;
+    max-width: 100%;
+}
